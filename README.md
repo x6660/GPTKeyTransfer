@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/x6660/GPTKeyTransfer.git
 ```
-在CentOS或Ubuntu执行命令后，然后在终端中运行以下命令以使脚本可执行，并运行脚本：
+在Mac或Linux执行命令后，然后在终端中运行以下命令以使脚本可执行，并运行脚本：
 ```
 cd GPTKeyTransfer
 ```
