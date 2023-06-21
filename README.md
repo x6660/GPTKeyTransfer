@@ -2,11 +2,14 @@
 把别人的GPT的使用权转移到你的账户下面—Transfer access to someone else's GPT to your account
 
 ## 使用说明-Install
-```sh
+```
 git clone https://github.com/x6660/GPTKeyTransfer.git
 ```
-将上述脚本保存为一个bash文件（如transfer_key.sh），然后在终端中运行以下命令以使脚本可执行，并运行脚本：
-```sh
+在CentOS或Ubuntu执行命令后，然后在终端中运行以下命令以使脚本可执行，并运行脚本：
+```
+cd GPTKeyTransfer
+```
+```
 chmod +x transfer_key.sh
 ```
 ```
