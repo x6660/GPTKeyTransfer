@@ -10,9 +10,9 @@ git clone https://github.com/x6660/GPTKeyTransfer.git
 cd GPTKeyTransfer
 ```
 ```
-chmod +x transfer_key.sh
+chmod +x transfer_key.bash
 ```
 ```
-./transfer_key.sh
+./transfer_key.bash
 ```
 根据提示输入OpenAI_Key和要转移的邮件地址，脚本将在完成密钥转移后显示适当的消息。
